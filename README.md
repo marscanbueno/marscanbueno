@@ -1,8 +1,12 @@
 # Aloha, I'm Marc
 
-IT Specialist based in Hawaiʻi with experience supporting Windows, macOS, Microsoft 365, and enterprise endpoint environments.
+I am an IT Specialist based in Hawaiʻi with experience supporting Windows, macOS, Microsoft 365, and enterprise endpoint environments. I build, collect, document, and maintain tools that make technology easier to support.
 
-This GitHub profile serves as a collection of administration scripts, technical documentation, lab projects, and operational knowledge gathered throughout my career in IT.
+This GitHub serves as a working archive of administration scripts, technical documentation, lab projects, deployment resources, automation workflows, and operational knowledge accumulated throughout my career supporting Windows, macOS, Microsoft 365, and enterprise endpoint environments.
+
+In addition to systems administration and endpoint management projects, you'll also find repositories focused on WordPress administration, web publishing, music production, MIDI workflows, and DJ technology.
+
+Most repositories are long-term projects that continue to evolve as older scripts, notes, and procedures are consolidated into larger collections focused on systems administration, endpoint management, automation, technical documentation, and creative technology.
 
 ## Technologies
 
