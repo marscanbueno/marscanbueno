@@ -6,12 +6,59 @@ This GitHub profile serves as a collection of administration scripts, technical 
 
 ## Technologies
 
-![Windows|150](https://img.shields.io/badge/Windows-Administration-0078D6)
-![macOS](https://img.shields.io/badge/macOS-Administration-000000)
-![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-5391FE)
-![Batch](https://img.shields.io/badge/Batch-Automation-4D4D4D)
-![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25)
+### Platforms
 
+![Windows](https://img.shields.io/badge/Windows-Administration-0078D6?logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-Administration-0078D6?logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-Administration-000000?logo=apple&logoColor=white)
+
+### Endpoint Management
+
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-Administration-D83B01?logo=microsoftoffice&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-Identity_Management-0078D4?logo=microsoftazure&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-Endpoint_Management-0078D4?logo=microsoftintune&logoColor=white)
+![MDM](https://img.shields.io/badge/MDM-Endpoint_Management-0078D4)
+![Jamf](https://img.shields.io/badge/Jamf-macOS_Management-FF6F00)
+![Mosyle](https://img.shields.io/badge/Mosyle-MDM-1A73E8?logo=mosyle&logoColor=white)
+
+### Infrastructure
+
+![Active Directory](https://img.shields.io/badge/Active_Directory-Administration-0078D6?logo=microsoft&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-Networking-2E8B57)
+![DHCP](https://img.shields.io/badge/DHCP-Networking-2E8B57)
+![Group Policy](https://img.shields.io/badge/Group_Policy-Management-0078D6)
+
+### Automation & Scripting
+
+![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-5391FE?logo=powershell&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-Automation-4D4D4D?logo=windows-terminal&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-Scripting-F15A24)
+![AppleScript](https://img.shields.io/badge/AppleScript-Automation-FA7343?logo=apple&logoColor=white)
+![Automator](https://img.shields.io/badge/Automator-Workflow_Automation-007AFF?logo=apple&logoColor=white)
+![Shortcuts](https://img.shields.io/badge/Shortcuts-Automation-6E5EFF?logo=apple&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Scripting-777BB4?logo=php&logoColor=white)
+
+### Web & Content Management
+
+![WordPress](https://img.shields.io/badge/WordPress-Administration-21759B?logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-Page_Builder-92003B?logo=elementor&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3&logoColor=white)
+
+### Lab & Documentation
+
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Documentation-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Development-007ACC?logo=visualstudiocode&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-Knowledge_Base-7C3AED?logo=obsidian&logoColor=white)
+![Parallels](https://img.shields.io/badge/Parallels-Virtualization-E60012?logo=parallels&logoColor=white)
+
+### Music Technology
+
+![Ableton Live](https://img.shields.io/badge/Ableton_Live-Production-000000?logo=abletonlive&logoColor=white)
+![Serato DJ Pro](https://img.shields.io/badge/Serato_DJ_Pro-Performance-000000)
+![MIDI](https://img.shields.io/badge/MIDI-Mapping-6A0DAD)
 ## Featured Repositories
 
 | Repository                                                                             | Description                                                                                         |
