@@ -6,7 +6,7 @@ This GitHub profile serves as a collection of administration scripts, technical 
 
 ## Technologies
 
-![Windows](https://img.shields.io/badge/Windows-Administration-0078D6)
+![Windows|150](https://img.shields.io/badge/Windows-Administration-0078D6)
 ![macOS](https://img.shields.io/badge/macOS-Administration-000000)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-5391FE)
 ![Batch](https://img.shields.io/badge/Batch-Automation-4D4D4D)
@@ -18,7 +18,7 @@ This GitHub profile serves as a collection of administration scripts, technical 
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | **macOS-admin-scripts**                                                                | macOS administration scripts, deployment resources, security configurations, and support procedures |
 | [**windows-imaging-lab**](https://github.com/marscanbueno/windows-imaging-lab)         | Windows imaging, deployment, Sysprep, DISM, and provisioning workflows                              |
-| **windows-server-arm-lab**                                                             | Active Directory, DNS, DHCP, Group Policy, Entra ID, Intune, and Windows Server lab environment     |
+| [**windows-server-arm-lab**](https://github.com/marscanbueno/windows-server-arm-lab)   | Active Directory, DNS, DHCP, Group Policy, Entra ID, Intune, and Windows Server lab environment     |
 | **ableton-live-extensions**                                                            | Custom Ableton Live extensions and workflow enhancements                                            |
 | [**ableton-live-resources**](https://github.com/marscanbueno/ableton-live-resources)   | MIDI mapping notes, production resources, and music technology documentation                        |
 | [**serato-dj-pro-midi-maps**](https://github.com/marscanbueno/serato-dj-pro-midi-maps) | Custom MIDI mappings and controller enhancements for Serato DJ Pro                                  |
