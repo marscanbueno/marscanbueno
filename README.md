@@ -22,10 +22,6 @@ A collection of imaging, deployment, and provisioning workflows for Windows envi
 
 Lab environment used to explore Active Directory, DNS, DHCP, Group Policy, Entra ID, Intune, and Windows Server administration.
 
-### Technology
-
-Technical notes, documentation, troubleshooting procedures, and reference material.
-
 ### Ableton Live Extensions
 
 Custom extensions, utilities, and workflow enhancements for Ableton Live, including tools designed to improve music production, organization, and studio workflows.
@@ -41,31 +37,20 @@ Custom MIDI mappings and controller enhancements for Serato DJ Pro designed to i
 ## Areas of Focus
 
 - Systems Administration
-    
 - Endpoint Management
-    
 - Windows & macOS Administration
-    
 - Microsoft 365
-    
 - Entra ID & Intune
-    
 - Active Directory
-    
 - Automation
-    
 - Technical Documentation
-    
 - Troubleshooting
-    
 
 ## Philosophy
 
-Document the process.
-
-Automate repetitive work.
-
-Build tools that make support easier for the next technician.
+- Document the process.
+- Automate repetitive work.
+- Build tools that make support easier for the next technician.
 
 ## Repository Highlights
 
