@@ -16,7 +16,7 @@ This GitHub profile serves as a collection of administration scripts, technical 
 
 | Repository                                                                             | Description                                                                                         |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| **macOS-admin-scripts**                                                                | macOS administration scripts, deployment resources, security configurations, and support procedures |
+| [**macOS-admin-scripts**](https://github.com/marscanbueno/macOS-admin-scripts)                                                                | macOS administration scripts, deployment resources, security configurations, and support procedures |
 | [**windows-imaging-lab**](https://github.com/marscanbueno/windows-imaging-lab)         | Windows imaging, deployment, Sysprep, DISM, and provisioning workflows                              |
 | [**windows-server-arm-lab**](https://github.com/marscanbueno/windows-server-arm-lab)   | Active Directory, DNS, DHCP, Group Policy, Entra ID, Intune, and Windows Server lab environment     |
 | **ableton-live-extensions**                                                            | Custom Ableton Live extensions and workflow enhancements                                            |
