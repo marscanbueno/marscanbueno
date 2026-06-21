@@ -4,35 +4,32 @@ IT Specialist based in Hawaiʻi with experience supporting Windows, macOS, Micro
 
 This GitHub profile serves as a collection of administration scripts, technical documentation, lab projects, and operational knowledge gathered throughout my career in IT.
 
+## Technologies
+
+![Windows](https://img.shields.io/badge/Windows-Administration-0078D6)
+![macOS](https://img.shields.io/badge/macOS-Administration-000000)
+![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-5391FE)
+![Batch](https://img.shields.io/badge/Batch-Automation-4D4D4D)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25)
+
 ## Featured Repositories
 
-### Windows Admin Scripts
+|Repository|Description|
+|---|---|
+|**windows-admin-scripts**|Windows administration, troubleshooting, endpoint management, networking, Microsoft 365, and automation tools|
+|**macOS-admin-scripts**|macOS administration scripts, deployment resources, security configurations, and support procedures|
+|**windows-imaging-lab**|Windows imaging, deployment, Sysprep, DISM, and provisioning workflows|
+|**windows-server-arm-lab**|Active Directory, DNS, DHCP, Group Policy, Entra ID, Intune, and Windows Server lab environment|
+|**ableton-live-extensions**|Custom Ableton Live extensions and workflow enhancements|
+|**ableton-live-resources**|MIDI mapping notes, production resources, and music technology documentation|
+|**serato-dj-pro-midi-maps**|Custom MIDI mappings and controller enhancements for Serato DJ Pro|
 
-A growing collection of Windows administration, troubleshooting, endpoint management, networking, Microsoft 365, and help desk automation scripts.
+## Current Projects
 
-### macOS Admin Scripts
-
-macOS administration scripts, deployment resources, security configurations, endpoint management tools, and support procedures.
-
-### Windows Imaging Lab
-
-A collection of imaging, deployment, and provisioning workflows for Windows environments, including Sysprep, DISM capture and deployment, unattended installation testing, driver management, and endpoint provisioning.
-
-### Windows Server ARM Lab
-
-Lab environment used to explore Active Directory, DNS, DHCP, Group Policy, Entra ID, Intune, and Windows Server administration.
-
-### Ableton Live Extensions
-
-Custom extensions, utilities, and workflow enhancements for Ableton Live, including tools designed to improve music production, organization, and studio workflows.
-
-### Ableton Live Resources
-
-MIDI mapping notes, production resources, workflow documentation, and music technology projects.
-
-### Serato DJ Pro MIDI Maps
-
-Custom MIDI mappings and controller enhancements for Serato DJ Pro designed to improve performance workflows and hardware integration.
+- Consolidating legacy Windows scripts into `windows-admin-scripts`
+- Consolidating legacy macOS scripts into `macOS-admin-scripts`
+- Building out the Windows Server ARM lab
+- Improving repository documentation and script indexing
 
 ## Areas of Focus
 
