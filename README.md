@@ -25,8 +25,8 @@ This GitHub profile serves as a collection of administration scripts, technical 
 
 ## Current Projects
 
-- Consolidating legacy Windows scripts into `windows-admin-scripts`
 - Consolidating legacy macOS scripts into `macOS-admin-scripts`
+- Consolidating legacy Windows scripts into `windows-admin-scripts`
 - Building out the Windows Server ARM lab
 - Improving repository documentation and script indexing
 
