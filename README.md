@@ -52,8 +52,10 @@ This GitHub profile serves as a collection of administration scripts, technical 
 ![GitHub](https://img.shields.io/badge/GitHub-Documentation-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-Development-007ACC?logo=visualstudiocode&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-Knowledge_Base-7C3AED?logo=obsidian&logoColor=white)
-![Parallels](https://img.shields.io/badge/Parallels-Virtualization-E60012?logo=parallels&logoColor=white)
 
+![Parallels](https://img.shields.io/badge/Parallels-Virtualization-E60012?logo=parallels&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-Virtualization-607078?logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-183A61?logo=virtualbox&logoColor=white)
 ### Music Technology
 
 ![Ableton Live](https://img.shields.io/badge/Ableton_Live-Production-000000?logo=abletonlive&logoColor=white)
