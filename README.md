@@ -14,14 +14,14 @@ This GitHub profile serves as a collection of administration scripts, technical 
 
 ## Featured Repositories
 
-| Repository                  | Description                                                                                         |
-| --------------------------- | --------------------------------------------------------------------------------------------------- |
-| **macOS-admin-scripts**     | macOS administration scripts, deployment resources, security configurations, and support procedures |
-| **windows-imaging-lab**     | Windows imaging, deployment, Sysprep, DISM, and provisioning workflows                              |
-| **windows-server-arm-lab**  | Active Directory, DNS, DHCP, Group Policy, Entra ID, Intune, and Windows Server lab environment     |
-| **ableton-live-extensions** | Custom Ableton Live extensions and workflow enhancements                                            |
-| **ableton-live-resources**  | MIDI mapping notes, production resources, and music technology documentation                        |
-| **serato-dj-pro-midi-maps** | Custom MIDI mappings and controller enhancements for Serato DJ Pro                                  |
+| Repository                                                                             | Description                                                                                         |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **macOS-admin-scripts**                                                                | macOS administration scripts, deployment resources, security configurations, and support procedures |
+| [**windows-imaging-lab**](https://github.com/marscanbueno/windows-imaging-lab)         | Windows imaging, deployment, Sysprep, DISM, and provisioning workflows                              |
+| **windows-server-arm-lab**                                                             | Active Directory, DNS, DHCP, Group Policy, Entra ID, Intune, and Windows Server lab environment     |
+| **ableton-live-extensions**                                                            | Custom Ableton Live extensions and workflow enhancements                                            |
+| [**ableton-live-resources**](https://github.com/marscanbueno/ableton-live-resources)   | MIDI mapping notes, production resources, and music technology documentation                        |
+| [**serato-dj-pro-midi-maps**](https://github.com/marscanbueno/serato-dj-pro-midi-maps) | Custom MIDI mappings and controller enhancements for Serato DJ Pro                                  |
 
 ## Current Projects
 
